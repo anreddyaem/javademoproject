@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<employees>
+<employee id="111">
+<firstName>saicharan</firstName>
+<lastName>gupta</lastName>
+<location>krmr</location>
+</employee>
+<employee id="222">
+<firstName>jsc</firstName>
+<lastName>gupta</lastName>
+<location>knr</location>
+</employee>
+<employee id="333">
+<firstName>sai</firstName>
+<lastName>charan</lastName>
+<location>sai</location>
+</employee>
+</employees>
